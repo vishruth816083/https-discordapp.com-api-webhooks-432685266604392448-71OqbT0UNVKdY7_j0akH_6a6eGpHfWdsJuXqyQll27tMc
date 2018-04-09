@@ -10,7 +10,7 @@
   ],
   "active": true,
   "config": {
-    "url": "http://example.com/webhook",
+    "url": "https://www.instagram.com/_the_gaming_hub_/?hl=en",
     "content_type": "json"
   },
   "updated_at": "2011-09-06T20:39:23Z",
